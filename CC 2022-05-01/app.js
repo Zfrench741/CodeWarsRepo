@@ -3,3 +3,6 @@ class Kata {
       return l * w * h;
     }
   }
+  function letsRide{
+      console.log('what up')
+  }
