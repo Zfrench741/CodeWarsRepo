@@ -5,4 +5,4 @@ class Kata {
   }
   function letsRide{
       console.log('what up')
-  }
+  }hjhgit
